@@ -1,5 +1,4 @@
-
-# sum of digit of a number using return function?
+sum of first 10 even numbers using return function
 
 n=int(input("enter the number"))
 def even(b):
